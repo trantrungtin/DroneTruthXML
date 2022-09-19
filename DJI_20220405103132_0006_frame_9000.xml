@@ -1,9 +1,9 @@
-   <annotation>
+<annotation>
 	<folder>train</folder>
 	<filename>DJI_20220405103132_0006_frame_9000.png</filename>
 	<path>C:\Users\realt\AI\DroneTruth\train\DJI_20220405103132_0006_frame_9000.png</path>
 	<source>
-		<database>DroneTruth</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>3840</width>
@@ -11,7 +11,7 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-       <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -21,11 +21,11 @@
 			<cy>1146.0</cy>
 			<w>64.0</w>
 			<h>175.0</h>
-			<angle>-1.5707963267948966</angle>
+			<angle>4.712389</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -33,13 +33,13 @@
 		<robndbox>
 			<cx>3331.0</cx>
 			<cy>1155.0</cy>
-			<w>65.00004577636719</w>
-			<h>172.9999542236328</h>
-			<angle>-1.5432844379590012</angle>
+			<w>65.0</w>
+			<h>173.0</h>
+			<angle>4.739901</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -47,13 +47,13 @@
 		<robndbox>
 			<cx>3278.0</cx>
 			<cy>1499.0</cy>
-			<w>65.99996948242188</w>
-			<h>171.00009155273438</h>
-			<angle>1.5800414927285487</angle>
+			<w>66.0</w>
+			<h>171.0001</h>
+			<angle>1.580041</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -61,13 +61,13 @@
 		<robndbox>
 			<cx>2699.0</cx>
 			<cy>1619.0</cy>
-			<w>66.0000991821289</w>
-			<h>164.9999542236328</h>
-			<angle>1.5758473828580146</angle>
+			<w>66.0001</w>
+			<h>165.0</h>
+			<angle>1.575847</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -75,13 +75,13 @@
 		<robndbox>
 			<cx>2358.0</cx>
 			<cy>1612.0</cy>
-			<w>69.00003814697266</w>
-			<h>160.00010681152344</h>
-			<angle>1.5587640520809503</angle>
+			<w>69.0</w>
+			<h>160.0001</h>
+			<angle>1.558764</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -89,13 +89,13 @@
 		<robndbox>
 			<cx>2537.0</cx>
 			<cy>1627.0</cy>
-			<w>58.99995040893555</w>
-			<h>134.00009155273438</h>
-			<angle>1.5517053989901315</angle>
+			<w>59.0</w>
+			<h>134.0001</h>
+			<angle>1.551705</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -103,13 +103,13 @@
 		<robndbox>
 			<cx>3088.0</cx>
 			<cy>1618.0</cy>
-			<w>62.00001525878906</w>
-			<h>158.99996948242188</h>
-			<angle>1.5533424648152954</angle>
+			<w>62.0</w>
+			<h>159.0</h>
+			<angle>1.553342</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -117,13 +117,13 @@
 		<robndbox>
 			<cx>3268.0</cx>
 			<cy>1615.0</cy>
-			<w>64.99995803833008</w>
-			<h>146.9999542236328</h>
-			<angle>1.5399343821261646</angle>
+			<w>65.0</w>
+			<h>147.0</h>
+			<angle>1.539934</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -131,13 +131,13 @@
 		<robndbox>
 			<cx>3461.0</cx>
 			<cy>1610.0</cy>
-			<w>67.00003814697266</w>
-			<h>167.0001983642578</h>
-			<angle>1.5358896405227582</angle>
+			<w>67.0</w>
+			<h>167.0002</h>
+			<angle>1.53589</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -145,13 +145,13 @@
 		<robndbox>
 			<cx>2457.0</cx>
 			<cy>1509.0</cy>
-			<w>91.00004577636719</w>
-			<h>283.0002136230469</h>
-			<angle>1.5645525223885144</angle>
+			<w>91.0</w>
+			<h>283.0002</h>
+			<angle>1.564553</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -159,13 +159,13 @@
 		<robndbox>
 			<cx>1437.0</cx>
 			<cy>1620.0</cy>
-			<w>72.00006103515625</w>
-			<h>190.99993896484375</h>
-			<angle>1.5755172550355003</angle>
+			<w>72.0001</w>
+			<h>190.9999</h>
+			<angle>1.575517</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -173,41 +173,27 @@
 		<robndbox>
 			<cx>797.0</cx>
 			<cy>613.0</cy>
-			<w>75.99998474121094</w>
+			<w>76.0</w>
 			<h>175.0</h>
-			<angle>-2.5477338645682375</angle>
+			<angle>3.735451</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>618.0</cx>
-			<cy>856.0</cy>
-			<w>91.00001525878906</w>
-			<h>229.99996948242188</h>
-			<angle>-2.5380955511310463</angle>
-		</robndbox>
-		<extra/>
-	</object>
-   <object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>973.0</cx>
-			<cy>531.0</cy>
-			<w>97.99999237060547</w>
-			<h>244.00001525878906</h>
-			<angle>-2.5289343082330586</angle>
+			<cx>976.0</cx>
+			<cy>534.0</cy>
+			<w>98.0</w>
+			<h>244.0</h>
+			<angle>3.754251</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -215,13 +201,13 @@
 		<robndbox>
 			<cx>3660.0</cx>
 			<cy>1608.0</cy>
-			<w>61.00005340576172</w>
-			<h>150.00021362304688</h>
-			<angle>1.535889462881486</angle>
+			<w>61.0001</w>
+			<h>150.0002</h>
+			<angle>1.535889</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -229,13 +215,13 @@
 		<robndbox>
 			<cx>1032.0</cx>
 			<cy>1736.0</cy>
-			<w>22.999923706054688</w>
-			<h>85.00003814697266</h>
-			<angle>1.5340972594699158</angle>
+			<w>22.9999</w>
+			<h>85.0</h>
+			<angle>1.534097</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -243,13 +229,13 @@
 		<robndbox>
 			<cx>936.0</cx>
 			<cy>1743.0</cy>
-			<w>25.000019073486328</w>
-			<h>77.00007629394531</h>
-			<angle>1.5527096698002214</angle>
+			<w>25.0</w>
+			<h>77.0001</h>
+			<angle>1.55271</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -257,13 +243,13 @@
 		<robndbox>
 			<cx>2091.0</cx>
 			<cy>1365.0</cy>
-			<w>103.00003051757812</w>
-			<h>589.0001220703125</h>
-			<angle>-1.5766324846086737</angle>
+			<w>103.0</w>
+			<h>589.0001</h>
+			<angle>4.706553</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -271,10 +257,24 @@
 		<robndbox>
 			<cx>2672.0</cx>
 			<cy>1350.0</cy>
-			<w>103.00003051757812</w>
+			<w>103.0</w>
 			<h>579.0</h>
-			<angle>-1.5882496803498598</angle>
+			<angle>4.694936</angle>
 		</robndbox>
 		<extra/>
 	</object>
-  </annotation>
+	<object>
+		<name>large-vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>620.3081</cx>
+			<cy>853.773</cy>
+			<w>86.3032</w>
+			<h>233.8888</h>
+			<angle>3.754251</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
