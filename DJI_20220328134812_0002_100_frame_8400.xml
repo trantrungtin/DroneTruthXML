@@ -180,13 +180,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>tank</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2488.7667</cx>
-			<cy>933.3396</cy>
+			<cx>2490.7667</cx>
+			<cy>931.3396</cy>
 			<w>129.7206</w>
 			<h>454.439</h>
 			<angle>1.57</angle>

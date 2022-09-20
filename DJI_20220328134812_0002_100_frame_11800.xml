@@ -68,7 +68,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -82,7 +82,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>tank</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

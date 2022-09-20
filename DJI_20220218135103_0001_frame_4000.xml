@@ -124,29 +124,15 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2382.0</cx>
-			<cy>1113.0</cy>
-			<w>71.0</w>
-			<h>92.0002</h>
-			<angle>5.50443</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>large-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2475.0</cx>
-			<cy>1205.0</cy>
-			<w>80.9999</w>
-			<h>165.0001</h>
+			<cx>2442.6841</cx>
+			<cy>1177.9754</cy>
+			<w>77.0023</w>
+			<h>265.8283</h>
 			<angle>5.529467</angle>
 		</robndbox>
 		<extra/>
@@ -260,34 +246,6 @@
 			<w>60.0</w>
 			<h>140.0003</h>
 			<angle>4.477905</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>26.6376</cx>
-			<cy>1617.3956</cy>
-			<w>52.996</w>
-			<h>130.7031</h>
-			<angle>3.143666</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>61.3741</cx>
-			<cy>2104.401</cy>
-			<w>58.5453</w>
-			<h>105.4675</h>
-			<angle>3.073666</angle>
 		</robndbox>
 		<extra/>
 	</object>

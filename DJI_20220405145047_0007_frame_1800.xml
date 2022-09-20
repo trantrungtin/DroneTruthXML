@@ -221,18 +221,4 @@
 		</robndbox>
 		<extra/>
 	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>745.23</cx>
-			<cy>2125.8067</cy>
-			<w>62.1503</w>
-			<h>169.8231</h>
-			<angle>1.545733</angle>
-		</robndbox>
-		<extra/>
-	</object>
 </annotation>

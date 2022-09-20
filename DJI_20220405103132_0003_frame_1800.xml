@@ -74,7 +74,7 @@
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>2461.0</cx>
-			<cy>2117.3744</cy>
+			<cy>2117.3743</cy>
 			<w>72.0</w>
 			<h>138.0002</h>
 			<angle>1.487353</angle>
@@ -96,7 +96,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -194,7 +194,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -283,10 +283,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>65.4606</cx>
-			<cy>1838.2603</cy>
-			<w>56.0771</w>
-			<h>120.611</h>
+			<cx>66.451</cx>
+			<cy>1835.2603</cy>
+			<w>56.582</w>
+			<h>122.5263</h>
 			<angle>1.31304</angle>
 		</robndbox>
 		<extra/>
@@ -302,20 +302,6 @@
 			<w>56.0</w>
 			<h>145.0</h>
 			<angle>1.543387</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>large-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>59.9213</cx>
-			<cy>1408.5</cy>
-			<w>54.2078</w>
-			<h>149.2867</h>
-			<angle>0.5</angle>
 		</robndbox>
 		<extra/>
 	</object>

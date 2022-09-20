@@ -138,7 +138,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

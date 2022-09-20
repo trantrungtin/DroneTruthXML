@@ -26,12 +26,12 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>155.0</cx>
+			<cx>156.0</cx>
 			<cy>976.0</cy>
 			<w>57.0</w>
 			<h>146.0</h>

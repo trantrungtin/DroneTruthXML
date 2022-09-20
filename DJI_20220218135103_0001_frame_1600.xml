@@ -236,15 +236,15 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3139.0</cx>
-			<cy>1167.8953</cy>
-			<w>112.5283</w>
-			<h>216.0587</h>
+			<cx>3133.439</cx>
+			<cy>1167.4477</cy>
+			<w>101.4444</w>
+			<h>214.7758</h>
 			<angle>6.248279</angle>
 		</robndbox>
 		<extra/>

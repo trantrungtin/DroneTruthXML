@@ -180,7 +180,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -194,13 +194,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2792.0</cx>
-			<cy>1683.0</cy>
+			<cx>2794.0</cx>
+			<cy>1680.0</cy>
 			<w>119.0</w>
 			<h>616.0001</h>
 			<angle>1.538962</angle>

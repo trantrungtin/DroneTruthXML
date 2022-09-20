@@ -82,16 +82,16 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>840.0</cx>
-			<cy>1754.0</cy>
-			<w>119.0</w>
-			<h>693.0001</h>
-			<angle>1.396099</angle>
+			<cx>840.6567</cx>
+			<cy>1751.0954</cy>
+			<w>131.5829</w>
+			<h>694.1241</h>
+			<angle>4.536099</angle>
 		</robndbox>
 		<extra/>
 	</object>
@@ -110,16 +110,16 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>243.2456</cx>
-			<cy>1846.2715</cy>
-			<w>111.4232</w>
-			<h>474.3447</h>
-			<angle>1.396099</angle>
+			<cx>239.939</cx>
+			<cy>1849.5779</cy>
+			<w>126.8952</w>
+			<h>465.8037</h>
+			<angle>4.556099</angle>
 		</robndbox>
 		<extra/>
 	</object>

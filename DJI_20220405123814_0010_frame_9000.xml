@@ -54,7 +54,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -246,6 +246,20 @@
 			<w>53.1145</w>
 			<h>128.3367</h>
 			<angle>4.887734</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>small-vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>1968.8663</cx>
+			<cy>731.1748</cy>
+			<w>65.7137</w>
+			<h>157.2793</h>
+			<angle>4.183185</angle>
 		</robndbox>
 		<extra/>
 	</object>

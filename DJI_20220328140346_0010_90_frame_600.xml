@@ -12,12 +12,12 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>671.0</cx>
+			<cx>672.0</cx>
 			<cy>1779.0</cy>
 			<w>122.0</w>
 			<h>692.0</h>
@@ -26,15 +26,15 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1385.0</cx>
-			<cy>1666.0</cy>
-			<w>117.0</w>
-			<h>683.0001</h>
+			<cx>1384.7795</cx>
+			<cy>1660.378</cy>
+			<w>132.9712</w>
+			<h>701.8753</h>
 			<angle>4.572229</angle>
 		</robndbox>
 		<extra/>

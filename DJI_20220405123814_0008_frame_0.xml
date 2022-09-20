@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>large-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -152,7 +152,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -250,7 +250,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

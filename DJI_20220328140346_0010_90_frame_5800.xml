@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -194,72 +194,72 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2475.0</cx>
-			<cy>1568.0</cy>
-			<w>120.0</w>
-			<h>407.0002</h>
+			<cx>2467.5688</cx>
+			<cy>1576.5582</cy>
+			<w>101.38</w>
+			<h>390.0046</h>
 			<angle>4.705993</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2834.0</cx>
-			<cy>1562.0</cy>
-			<w>121.0</w>
-			<h>313.0002</h>
+			<cx>2816.961</cx>
+			<cy>1568.2026</cy>
+			<w>102.9877</w>
+			<h>308.1102</h>
 			<angle>4.694936</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3095.0</cx>
-			<cy>1556.0</cy>
-			<w>121.0001</w>
-			<h>208.0002</h>
+			<cx>3077.9528</cx>
+			<cy>1563.2314</cy>
+			<w>103.08</w>
+			<h>202.1089</h>
 			<angle>4.694936</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3349.0</cx>
-			<cy>1546.0</cy>
-			<w>120.0</w>
-			<h>310.0001</h>
+			<cx>3337.4458</cx>
+			<cy>1554.723</cy>
+			<w>99.2803</w>
+			<h>305.6123</h>
 			<angle>4.677482</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3660.0</cx>
-			<cy>1540.0</cy>
-			<w>119.0</w>
-			<h>298.0</h>
-			<angle>4.712389</angle>
+			<cx>3648.0605</cx>
+			<cy>1545.998</cy>
+			<w>105.246</w>
+			<h>306.5374</h>
+			<angle>4.682389</angle>
 		</robndbox>
 		<extra/>
 	</object>

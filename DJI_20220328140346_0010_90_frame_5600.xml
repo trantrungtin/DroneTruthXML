@@ -40,7 +40,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -138,57 +138,43 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2970.8755</cx>
-			<cy>1557.5823</cy>
-			<w>124.7404</w>
-			<h>389.6601</h>
+			<cx>2970.8768</cx>
+			<cy>1564.0823</cy>
+			<w>105.7039</w>
+			<h>388.0474</h>
 			<angle>4.692166</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3325.8755</cx>
-			<cy>1555.5823</cy>
-			<w>109.1256</w>
-			<h>309.9596</h>
+			<cx>3335.6977</cx>
+			<cy>1555.2013</cy>
+			<w>102.0748</w>
+			<h>295.7437</h>
 			<angle>4.692166</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3586.8755</cx>
-			<cy>1545.5823</cy>
+			<cx>3591.8755</cx>
+			<cy>1547.5823</cy>
 			<w>107.1438</w>
 			<h>211.9796</h>
-			<angle>4.692166</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>large-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3766.3802</cx>
-			<cy>1544.439</cy>
-			<w>106.2503</w>
-			<h>143.0842</h>
 			<angle>4.692166</angle>
 		</robndbox>
 		<extra/>

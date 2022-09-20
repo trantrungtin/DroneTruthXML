@@ -236,7 +236,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -255,16 +255,16 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3120.0</cx>
-			<cy>1361.0</cy>
-			<w>63.9999</w>
-			<h>124.0001</h>
+			<cx>3122.8853</cx>
+			<cy>1360.4354</cy>
+			<w>58.1847</w>
+			<h>123.1297</h>
 			<angle>6.238511</angle>
 		</robndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

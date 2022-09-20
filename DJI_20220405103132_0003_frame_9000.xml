@@ -171,34 +171,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1978.0</cx>
-			<cy>2127.0</cy>
-			<w>65.9999</w>
-			<h>153.0</h>
-			<angle>4.653247</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>1680.9385</cx>
-			<cy>2128.8694</cy>
-			<w>49.4549</w>
-			<h>150.7294</h>
-			<angle>1.49735</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
 			<cx>1679.0</cx>
 			<cy>1955.0</cy>
 			<w>68.9999</w>

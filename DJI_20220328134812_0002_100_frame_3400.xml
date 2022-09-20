@@ -82,12 +82,12 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1387.1437</cx>
+			<cx>1389.1437</cx>
 			<cy>798.6962</cy>
 			<w>102.1538</w>
 			<h>285.8792</h>
@@ -96,7 +96,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>tank</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

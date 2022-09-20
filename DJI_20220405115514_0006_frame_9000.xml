@@ -1,9 +1,9 @@
-   <annotation>
+<annotation>
 	<folder>train</folder>
 	<filename>DJI_20220405115514_0006_frame_9000.png</filename>
 	<path>C:\Users\realt\AI\DroneTruth\train\DJI_20220405115514_0006_frame_9000.png</path>
 	<source>
-		<database>DroneTruth</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>3840</width>
@@ -11,8 +11,8 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-       <object>
-		<name>large-vehicle</name>
+	<object>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -20,26 +20,26 @@
 			<cx>2406.0</cx>
 			<cy>1633.0</cy>
 			<w>111.0</w>
-			<h>562.0001220703125</h>
-			<angle>1.449012275161644</angle>
+			<h>562.0001</h>
+			<angle>1.449012</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
-		<name>large-vehicle</name>
+	<object>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1841.0</cx>
+			<cx>1849.0</cx>
 			<cy>1703.0</cy>
-			<w>107.00006103515625</w>
+			<w>107.0001</w>
 			<h>577.0</h>
-			<angle>1.43903896580614</angle>
+			<angle>1.439039</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -47,27 +47,27 @@
 		<robndbox>
 			<cx>2444.0</cx>
 			<cy>1285.0</cy>
-			<w>69.00009155273438</w>
-			<h>172.00015258789062</h>
-			<angle>-1.669122050441114</angle>
+			<w>69.0001</w>
+			<h>172.0002</h>
+			<angle>4.614063</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
-		<name>large-vehicle</name>
+	<object>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>2901.0</cx>
 			<cy>1275.0</cy>
-			<w>68.00007629394531</w>
-			<h>165.00021362304688</h>
-			<angle>-1.5882495378698864</angle>
+			<w>68.0001</w>
+			<h>165.0002</h>
+			<angle>4.694936</angle>
 		</robndbox>
 		<extra/>
 	</object>
-   <object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -77,8 +77,8 @@
 			<cy>1257.0</cy>
 			<w>66.0</w>
 			<h>173.0</h>
-			<angle>-1.5707963267948966</angle>
+			<angle>4.712389</angle>
 		</robndbox>
 		<extra/>
 	</object>
-  </annotation>
+</annotation>

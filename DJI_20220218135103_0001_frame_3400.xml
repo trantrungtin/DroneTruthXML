@@ -40,7 +40,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>bus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -306,20 +306,6 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>64.951</cx>
-			<cy>2103.2549</cy>
-			<w>77.0</w>
-			<h>112.0</h>
-			<angle>0.0</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -329,20 +315,6 @@
 			<cy>1896.5374</cy>
 			<w>86.0</w>
 			<h>188.5649</h>
-			<angle>0.0</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>21.0</cx>
-			<cy>1586.7802</cy>
-			<w>42.0</w>
-			<h>128.0</h>
 			<angle>0.0</angle>
 		</robndbox>
 		<extra/>

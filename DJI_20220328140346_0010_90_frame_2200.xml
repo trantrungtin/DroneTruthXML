@@ -208,12 +208,12 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>bus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3075.5538</cx>
+			<cx>3080.5538</cx>
 			<cy>1893.6902</cy>
 			<w>146.5167</w>
 			<h>544.9753</h>
