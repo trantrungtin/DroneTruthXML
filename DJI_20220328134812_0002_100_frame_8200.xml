@@ -236,7 +236,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>tank</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

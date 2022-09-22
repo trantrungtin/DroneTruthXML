@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>train</folder>
 	<filename>DJI_20220405122203_0003_frame_7200.png</filename>
 	<path>C:\Users\realt\AI\DroneTruth\train\DJI_20220405122203_0003_frame_7200.png</path>
@@ -138,7 +138,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

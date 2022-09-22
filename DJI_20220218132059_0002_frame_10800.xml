@@ -255,20 +255,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2419.1869</cx>
-			<cy>1546.9314</cy>
-			<w>20.8549</w>
-			<h>45.8119</h>
-			<angle>2.99</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
 			<cx>1931.7451</cx>
 			<cy>1503.3917</cy>
 			<w>17.2866</w>
@@ -358,20 +344,6 @@
 			<w>14.071</w>
 			<h>36.7185</h>
 			<angle>3.1</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2396.1869</cx>
-			<cy>1563.9314</cy>
-			<w>20.8549</w>
-			<h>45.8119</h>
-			<angle>2.99</angle>
 		</robndbox>
 		<extra/>
 	</object>

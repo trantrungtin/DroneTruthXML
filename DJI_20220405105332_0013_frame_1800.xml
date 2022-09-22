@@ -151,18 +151,4 @@
 		</robndbox>
 		<extra/>
 	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>35.0</cx>
-			<cy>1025.0</cy>
-			<w>19.0</w>
-			<h>47.0</h>
-			<angle>4.726449</angle>
-		</robndbox>
-		<extra/>
-	</object>
 </annotation>
