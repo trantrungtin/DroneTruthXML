@@ -213,10 +213,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3231.0</cx>
-			<cy>1526.0</cy>
-			<w>24.0001</w>
-			<h>65.0</h>
+			<cx>3233.3537</cx>
+			<cy>1526.5113</cy>
+			<w>27.8566</w>
+			<h>58.0474</h>
 			<angle>4.915195</angle>
 		</robndbox>
 		<extra/>

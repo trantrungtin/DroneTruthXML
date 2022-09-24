@@ -263,4 +263,32 @@
 		</robndbox>
 		<extra/>
 	</object>
+	<object>
+		<name>two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>755.6937</cx>
+			<cy>1428.961</cy>
+			<w>22.8726</w>
+			<h>62.1049</h>
+			<angle>0.1</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>597.7504</cx>
+			<cy>1534.7826</cy>
+			<w>24.3666</w>
+			<h>74.3546</h>
+			<angle>1.5</angle>
+		</robndbox>
+		<extra/>
+	</object>
 </annotation>

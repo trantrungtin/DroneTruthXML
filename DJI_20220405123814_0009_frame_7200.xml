@@ -647,10 +647,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1258.8674</cx>
-			<cy>2063.9415</cy>
-			<w>22.9167</w>
-			<h>58.3798</h>
+			<cx>1257.1133</cx>
+			<cy>2063.9227</cy>
+			<w>25.2261</w>
+			<h>61.0208</h>
 			<angle>2.3</angle>
 		</robndbox>
 		<extra/>

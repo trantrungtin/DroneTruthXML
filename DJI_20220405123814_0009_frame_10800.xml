@@ -199,10 +199,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1781.7514</cx>
-			<cy>886.6873</cy>
-			<w>25.9531</w>
-			<h>57.9082</h>
+			<cx>1783.1166</cx>
+			<cy>888.4747</cy>
+			<w>28.8141</w>
+			<h>57.2619</h>
 			<angle>1.8</angle>
 		</robndbox>
 		<extra/>

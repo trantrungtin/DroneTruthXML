@@ -311,10 +311,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1968.3629</cx>
-			<cy>884.9526</cy>
-			<w>16.8095</w>
-			<h>39.782</h>
+			<cx>1967.7241</cx>
+			<cy>885.0072</cy>
+			<w>17.132</w>
+			<h>39.0126</h>
 			<angle>1.6</angle>
 		</robndbox>
 		<extra/>
@@ -330,6 +330,20 @@
 			<w>71.5013</w>
 			<h>191.7847</h>
 			<angle>3.587815</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>2324.594</cx>
+			<cy>834.9764</cy>
+			<w>21.7778</w>
+			<h>61.8629</h>
+			<angle>3.81</angle>
 		</robndbox>
 		<extra/>
 	</object>

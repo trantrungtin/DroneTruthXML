@@ -157,10 +157,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3119.0</cx>
-			<cy>1261.0</cy>
-			<w>37.0</w>
-			<h>50.0</h>
+			<cx>3119.9754</cx>
+			<cy>1260.5</cy>
+			<w>33.0</w>
+			<h>48.0</h>
 			<angle>1.570796</angle>
 		</robndbox>
 		<extra/>

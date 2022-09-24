@@ -87,10 +87,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2175.0</cx>
-			<cy>763.0</cy>
-			<w>39.0</w>
-			<h>105.0</h>
+			<cx>2174.7377</cx>
+			<cy>763.5</cy>
+			<w>43.0</w>
+			<h>104.4754</h>
 			<angle>4.712389</angle>
 		</robndbox>
 		<extra/>
@@ -157,10 +157,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3095.0</cx>
-			<cy>1194.0</cy>
-			<w>29.0001</w>
-			<h>79.0001</h>
+			<cx>3095.9995</cx>
+			<cy>1193.7936</cy>
+			<w>28.583</w>
+			<h>78.0042</h>
 			<angle>4.714571</angle>
 		</robndbox>
 		<extra/>

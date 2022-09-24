@@ -535,10 +535,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2922.504</cx>
-			<cy>1305.3998</cy>
-			<w>29.0367</w>
-			<h>71.983</h>
+			<cx>2922.0602</cx>
+			<cy>1306.0072</cy>
+			<w>32.0413</w>
+			<h>73.1742</h>
 			<angle>3.115487</angle>
 		</robndbox>
 		<extra/>
@@ -549,10 +549,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2884.0</cx>
-			<cy>1238.0</cy>
-			<w>18.0</w>
-			<h>62.0</h>
+			<cx>2883.9913</cx>
+			<cy>1238.1978</cy>
+			<w>24.0196</w>
+			<h>62.396</h>
 			<angle>3.173252</angle>
 		</robndbox>
 		<extra/>
@@ -563,10 +563,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2907.9569</cx>
-			<cy>1238.0</cy>
-			<w>18.7355</w>
-			<h>63.7886</h>
+			<cx>2909.1113</cx>
+			<cy>1238.6078</cy>
+			<w>23.0531</w>
+			<h>63.0539</h>
 			<angle>3.130081</angle>
 		</robndbox>
 		<extra/>
@@ -591,11 +591,11 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2969.8873</cx>
-			<cy>1239.0169</cy>
-			<w>23.462</w>
-			<h>66.9605</h>
-			<angle>3.092374</angle>
+			<cx>2970.2575</cx>
+			<cy>1240.3841</cy>
+			<w>26.2263</w>
+			<h>65.7479</h>
+			<angle>3.122374</angle>
 		</robndbox>
 		<extra/>
 	</object>
@@ -605,10 +605,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2925.7302</cx>
-			<cy>336.5342</cy>
-			<w>17.0672</w>
-			<h>56.4436</h>
+			<cx>2924.5</cx>
+			<cy>337.0</cy>
+			<w>19.8582</w>
+			<h>59.0479</h>
 			<angle>4.709987</angle>
 		</robndbox>
 		<extra/>
@@ -638,20 +638,6 @@
 			<w>61.0</w>
 			<h>158.0</h>
 			<angle>0.025091</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>66.2842</cx>
-			<cy>19.5</cy>
-			<w>17.4829</w>
-			<h>59.1433</h>
-			<angle>1.926802</angle>
 		</robndbox>
 		<extra/>
 	</object>

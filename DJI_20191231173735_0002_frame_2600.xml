@@ -143,11 +143,11 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2677.0</cx>
-			<cy>1347.0</cy>
-			<w>28.9999</w>
-			<h>88.0001</h>
-			<angle>5.403562</angle>
+			<cx>2676.3443</cx>
+			<cy>1347.9847</cy>
+			<w>36.4074</w>
+			<h>86.6413</h>
+			<angle>5.333562</angle>
 		</robndbox>
 		<extra/>
 	</object>

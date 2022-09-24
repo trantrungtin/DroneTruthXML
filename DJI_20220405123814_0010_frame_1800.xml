@@ -31,10 +31,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>401.0</cx>
-			<cy>1062.0</cy>
-			<w>31.0</w>
-			<h>70.0</h>
+			<cx>396.4795</cx>
+			<cy>1063.25</cy>
+			<w>31.5</w>
+			<h>59.0</h>
 			<angle>4.712389</angle>
 		</robndbox>
 		<extra/>
@@ -395,10 +395,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1956.2643</cx>
-			<cy>722.2505</cy>
-			<w>31.7182</w>
-			<h>76.4828</h>
+			<cx>1955.4685</cx>
+			<cy>720.5</cy>
+			<w>26.6808</w>
+			<h>79.8131</h>
 			<angle>0.029204</angle>
 		</robndbox>
 		<extra/>
@@ -451,10 +451,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1831.1568</cx>
-			<cy>711.6071</cy>
-			<w>24.9324</w>
-			<h>73.3032</h>
+			<cx>1831.2044</cx>
+			<cy>711.9852</cy>
+			<w>24.8541</w>
+			<h>72.545</h>
 			<angle>3.119204</angle>
 		</robndbox>
 		<extra/>
@@ -465,10 +465,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1958.2643</cx>
-			<cy>799.7635</cy>
-			<w>27.6915</w>
-			<h>75.626</h>
+			<cx>1958.5174</cx>
+			<cy>802.5418</cy>
+			<w>27.8893</w>
+			<h>71.1582</h>
 			<angle>0.069204</angle>
 		</robndbox>
 		<extra/>
@@ -479,10 +479,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1823.1784</cx>
-			<cy>784.1351</cy>
-			<w>25.8649</w>
-			<h>68.4341</h>
+			<cx>1822.4685</cx>
+			<cy>783.0</cy>
+			<w>25.4084</w>
+			<h>71.3822</h>
 			<angle>6.232389</angle>
 		</robndbox>
 		<extra/>
