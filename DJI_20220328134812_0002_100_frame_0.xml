@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>DJI_20220328134812_0002_100_frame_0.png</filename>
-	<path>C:\Users\realt\AI\DroneTruth\train\DJI_20220328134812_0002_100_frame_0.png</path>
+	<path>C:/Users/realt/AI/DroneTruth/train/DJI_20220328134812_0002_100_frame_0.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,28 +12,28 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>free-zone</name>
+		<name>group-two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>205</xmin>
-			<ymin>1175</ymin>
-			<xmax>352</xmax>
-			<ymax>1331</ymax>
+			<xmin>210</xmin>
+			<ymin>1151</ymin>
+			<xmax>380</xmax>
+			<ymax>1344</ymax>
 		</bndbox>
 		<extra/>
 	</object>
 	<object>
-		<name>free-zone</name>
+		<name>group-two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>814</xmin>
-			<ymin>1164</ymin>
-			<xmax>989</xmax>
-			<ymax>1333</ymax>
+			<xmin>798</xmin>
+			<ymin>1122</ymin>
+			<xmax>1010</xmax>
+			<ymax>1335</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -122,7 +122,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>group-two-wheeler</name>
+		<name>two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -136,7 +136,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>group-two-wheeler</name>
+		<name>two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
