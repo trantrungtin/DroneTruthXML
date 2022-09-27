@@ -12,6 +12,71 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>12</ymin>
+			<xmax>1642</xmax>
+			<ymax>1743</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1619</xmin>
+			<ymin>892</ymin>
+			<xmax>1779</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1687</xmin>
+			<ymin>43</ymin>
+			<xmax>2442</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1682</xmin>
+			<ymin>1350</ymin>
+			<xmax>2801</xmax>
+			<ymax>1859</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2940</xmin>
+			<ymin>1605</ymin>
+			<xmax>3698</xmax>
+			<ymax>2059</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

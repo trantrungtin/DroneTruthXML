@@ -12,6 +12,110 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>10</ymin>
+			<xmax>696</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>19</ymin>
+			<xmax>1286</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1758</xmin>
+			<ymin>3</ymin>
+			<xmax>2233</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1289</xmin>
+			<ymin>6</ymin>
+			<xmax>1747</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymin>498</ymin>
+			<xmax>2542</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2838</xmin>
+			<ymin>782</ymin>
+			<xmax>3687</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>492</ymin>
+			<xmax>968</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>1085</ymin>
+			<xmax>1186</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -582,6 +686,20 @@
 			<w>60.0</w>
 			<h>133.0</h>
 			<angle>1.570796</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>1135.0984</cx>
+			<cy>1115.6489</cy>
+			<w>26.6812</w>
+			<h>57.7895</h>
+			<angle>4.783185</angle>
 		</robndbox>
 		<extra/>
 	</object>

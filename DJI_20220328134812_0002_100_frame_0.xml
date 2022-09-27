@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>DJI_20220328134812_0002_100_frame_0.png</filename>
-	<path>C:\Users\realt\AI\DroneTruth\train\DJI_20220328134812_0002_100_frame_0.png</path>
+	<path>C:/Users/realt/AI/DroneTruth/train/DJI_20220328134812_0002_100_frame_0.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,6 +11,32 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>1158</ymin>
+			<xmax>969</xmax>
+			<ymax>1308</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>1165</ymin>
+			<xmax>364</xmax>
+			<ymax>1313</ymax>
+		</bndbox>
+		<extra/>
+	</object>
 	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>

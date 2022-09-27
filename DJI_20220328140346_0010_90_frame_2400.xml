@@ -12,6 +12,45 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2798</xmin>
+			<ymin>1154</ymin>
+			<xmax>2958</xmax>
+			<ymax>1317</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2970</xmin>
+			<ymin>1131</ymin>
+			<xmax>3156</xmax>
+			<ymax>1315</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>group-two-wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3405</xmin>
+			<ymin>1138</ymin>
+			<xmax>3631</xmax>
+			<ymax>1295</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
