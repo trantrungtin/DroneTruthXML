@@ -31,9 +31,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>166</ymin>
-			<xmax>112</xmax>
-			<ymax>313</ymax>
+			<ymin>179</ymin>
+			<xmax>111</xmax>
+			<ymax>326</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -47,19 +47,6 @@
 			<ymin>505</ymin>
 			<xmax>3507</xmax>
 			<ymax>671</ymax>
-		</bndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>group-two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3721</xmin>
-			<ymin>336</ymin>
-			<xmax>3840</xmax>
-			<ymax>542</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -545,8 +532,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>41.6255</cx>
-			<cy>244.4522</cy>
+			<cx>36.6255</cx>
+			<cy>248.4522</cy>
 			<w>32.8481</w>
 			<h>83.005</h>
 			<angle>5.783185</angle>
@@ -554,7 +541,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>two-wheeler</name>
+		<name>bicycle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -568,7 +555,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>two-wheeler</name>
+		<name>bicycle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -582,7 +569,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>two-wheeler</name>
+		<name>bicycle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

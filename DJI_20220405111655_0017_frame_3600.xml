@@ -12,19 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>group-two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1952</xmin>
-			<ymin>605</ymin>
-			<xmax>2121</xmax>
-			<ymax>736</ymax>
-		</bndbox>
-		<extra/>
-	</object>
-	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -399,62 +386,6 @@
 			<w>70.8442</w>
 			<h>178.3312</h>
 			<angle>5.687668</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2083.9578</cx>
-			<cy>660.0</cy>
-			<w>14.0</w>
-			<h>32.0</h>
-			<angle>5.363185</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2044.529</cx>
-			<cy>656.9494</cy>
-			<w>15.5513</w>
-			<h>34.2352</h>
-			<angle>5.523185</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2069.529</cx>
-			<cy>666.9494</cy>
-			<w>15.5513</w>
-			<h>34.2352</h>
-			<angle>5.103185</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2012.529</cx>
-			<cy>651.9494</cy>
-			<w>15.5513</w>
-			<h>34.2352</h>
-			<angle>1.52</angle>
 		</robndbox>
 		<extra/>
 	</object>

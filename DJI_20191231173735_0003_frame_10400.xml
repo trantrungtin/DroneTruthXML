@@ -169,13 +169,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3012.0</cx>
-			<cy>1693.0</cy>
+			<cx>3014.0</cx>
+			<cy>1695.0</cy>
 			<w>76.0001</w>
 			<h>191.0</h>
 			<angle>1.695152</angle>

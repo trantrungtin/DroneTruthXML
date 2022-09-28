@@ -758,109 +758,11 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>3187.1607</cx>
-			<cy>382.7106</cy>
-			<w>24.3303</w>
-			<h>57.8666</h>
-			<angle>4.527022</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3171.4996</cx>
-			<cy>349.6319</cy>
-			<w>22.7224</w>
-			<h>60.6509</h>
-			<angle>4.124397</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3134.4351</cx>
-			<cy>328.9834</cy>
-			<w>21.8298</w>
-			<h>61.8041</h>
-			<angle>4.251011</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3132.4652</cx>
-			<cy>284.0</cy>
-			<w>23.0039</w>
-			<h>59.0916</h>
-			<angle>4.17526</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
 			<cx>3189.2713</cx>
 			<cy>297.0883</cy>
 			<w>36.8468</w>
 			<h>59.8262</h>
 			<angle>5.235988</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3197.0547</cx>
-			<cy>247.1708</cy>
-			<w>27.0734</w>
-			<h>59.6716</h>
-			<angle>6.202553</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3226.904</cx>
-			<cy>226.4881</cy>
-			<w>21.9784</w>
-			<h>54.9615</h>
-			<angle>6.174337</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>two-wheeler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3256.6128</cx>
-			<cy>200.8492</cy>
-			<w>24.8834</w>
-			<h>60.032</h>
-			<angle>6.218623</angle>
 		</robndbox>
 		<extra/>
 	</object>

@@ -92,12 +92,12 @@
 		<extra/>
 	</object>
 	<object>
-		<name>mid-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>773.0</cx>
+			<cx>774.0</cx>
 			<cy>1799.0</cy>
 			<w>68.9999</w>
 			<h>187.0</h>

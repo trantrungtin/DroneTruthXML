@@ -416,20 +416,6 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>100.0</cx>
-			<cy>1681.7022</cy>
-			<w>67.3163</w>
-			<h>190.166</h>
-			<angle>4.503185</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
 		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

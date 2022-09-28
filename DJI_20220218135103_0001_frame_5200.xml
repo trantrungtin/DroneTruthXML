@@ -67,18 +67,4 @@
 		</robndbox>
 		<extra/>
 	</object>
-	<object>
-		<name>bus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>2571.4236</cx>
-			<cy>111.1275</cy>
-			<w>89.5798</w>
-			<h>204.0354</h>
-			<angle>3.483185</angle>
-		</robndbox>
-		<extra/>
-	</object>
 </annotation>

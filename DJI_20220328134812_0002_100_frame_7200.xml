@@ -38,13 +38,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>621.0</cx>
-			<cy>788.0</cy>
+			<cy>786.0</cy>
 			<w>90.0</w>
 			<h>203.0001</h>
 			<angle>4.729842</angle>

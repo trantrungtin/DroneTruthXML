@@ -662,18 +662,4 @@
 		</robndbox>
 		<extra/>
 	</object>
-	<object>
-		<name>truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>98.3113</cx>
-			<cy>782.4659</cy>
-			<w>75.2466</w>
-			<h>194.4644</h>
-			<angle>1.6</angle>
-		</robndbox>
-		<extra/>
-	</object>
 </annotation>

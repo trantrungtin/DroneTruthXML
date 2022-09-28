@@ -183,12 +183,12 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>small-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>2000.367</cx>
+			<cx>2002.367</cx>
 			<cy>2050.9137</cy>
 			<w>75.7723</w>
 			<h>192.058</h>

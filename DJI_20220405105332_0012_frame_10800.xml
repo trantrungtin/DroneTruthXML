@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1426</xmin>
-			<ymin>1264</ymin>
+			<ymin>1261</ymin>
 			<xmax>1563</xmax>
-			<ymax>1371</ymax>
+			<ymax>1368</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -251,7 +251,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>1495.2045</cx>
+			<cx>1493.2045</cx>
 			<cy>1306.9612</cy>
 			<w>26.9151</w>
 			<h>48.0101</h>
