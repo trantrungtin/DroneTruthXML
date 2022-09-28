@@ -56,10 +56,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1563</xmin>
-			<ymin>1275</ymin>
-			<xmax>2924</xmax>
-			<ymax>1850</ymax>
+			<xmin>1530</xmin>
+			<ymin>1272</ymin>
+			<xmax>2891</xmax>
+			<ymax>1847</ymax>
 		</bndbox>
 		<extra/>
 	</object>

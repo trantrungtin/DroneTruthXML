@@ -14,13 +14,78 @@
 	<object>
 		<name>free-zone</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>63</xmin>
-			<ymin>1</ymin>
-			<xmax>2403</xmax>
-			<ymax>1592</ymax>
+			<xmin>124</xmin>
+			<ymin>19</ymin>
+			<xmax>1042</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1052</xmin>
+			<ymin>15</ymin>
+			<xmax>1885</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1892</xmin>
+			<ymin>3</ymin>
+			<xmax>2724</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>675</ymin>
+			<xmax>736</xmax>
+			<ymax>1306</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>673</ymin>
+			<xmax>1463</xmax>
+			<ymax>1355</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1461</xmin>
+			<ymin>669</ymin>
+			<xmax>2277</xmax>
+			<ymax>1378</ymax>
 		</bndbox>
 		<extra/>
 	</object>

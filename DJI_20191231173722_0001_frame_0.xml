@@ -30,10 +30,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
-			<ymin>6</ymin>
-			<xmax>2424</xmax>
-			<ymax>1562</ymax>
+			<xmin>2944</xmin>
+			<ymin>1375</ymin>
+			<xmax>3580</xmax>
+			<ymax>2157</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -43,10 +43,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>1580</ymin>
-			<xmax>1876</xmax>
-			<ymax>2160</ymax>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>944</xmax>
+			<ymax>619</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -56,10 +56,75 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2944</xmin>
-			<ymin>1375</ymin>
-			<xmax>3580</xmax>
-			<ymax>2157</ymax>
+			<xmin>947</xmin>
+			<ymin>2</ymin>
+			<xmax>1884</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1890</xmin>
+			<ymin>1</ymin>
+			<xmax>2827</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>627</ymin>
+			<xmax>941</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>944</xmin>
+			<ymin>626</ymin>
+			<xmax>1881</xmax>
+			<ymax>1246</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>1254</ymin>
+			<xmax>950</xmax>
+			<ymax>1874</ymax>
+		</bndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>free-zone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>953</xmin>
+			<ymin>1254</ymin>
+			<xmax>1890</xmax>
+			<ymax>1874</ymax>
 		</bndbox>
 		<extra/>
 	</object>
