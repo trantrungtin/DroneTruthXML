@@ -121,13 +121,13 @@
 			<h>391.6902</h>
 			<angle>4.906557</angle>
 		</robndbox>
-		<extra/>
+		<extra>2</extra>
 	</object>
 	<object>
 		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<robndbox>
 			<cx>2000.0</cx>
 			<cy>1799.0</cy>
@@ -135,7 +135,7 @@
 			<h>181.0001</h>
 			<angle>3.501643</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>large-vehicle</name>

@@ -45,8 +45,8 @@
 		<bndbox>
 			<xmin>2745</xmin>
 			<ymin>1161</ymin>
-			<xmax>2993</xmax>
-			<ymax>1317</ymax>
+			<xmax>2938</xmax>
+			<ymax>1319</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -107,7 +107,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -160,7 +160,7 @@
 			<h>238.0</h>
 			<angle>1.589744</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>small-vehicle</name>

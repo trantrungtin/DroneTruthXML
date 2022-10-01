@@ -160,7 +160,7 @@
 			<h>278.8953</h>
 			<angle>1.56862</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>two-wheeler</name>

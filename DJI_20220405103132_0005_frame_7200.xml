@@ -494,7 +494,7 @@
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>3232.0</cx>
-			<cy>304.0</cy>
+			<cy>302.0</cy>
 			<w>74.9999</w>
 			<h>155.0001</h>
 			<angle>5.763511</angle>
@@ -597,7 +597,7 @@
 			<h>231.2996</h>
 			<angle>4.784981</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>mid-vehicle</name>

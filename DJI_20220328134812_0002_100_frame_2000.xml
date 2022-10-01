@@ -121,13 +121,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>2342.0</cx>
-			<cy>945.0</cy>
+			<cy>942.0</cy>
 			<w>81.0</w>
 			<h>197.0</h>
 			<angle>1.570796</angle>

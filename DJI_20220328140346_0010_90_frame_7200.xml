@@ -121,7 +121,7 @@
 			<h>289.2487</h>
 			<angle>1.566076</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult,2</extra>
 	</object>
 	<object>
 		<name>small-vehicle</name>
@@ -166,7 +166,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

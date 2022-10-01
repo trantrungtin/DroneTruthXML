@@ -108,13 +108,13 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>752.0</cx>
-			<cy>936.0</cy>
+			<cy>934.0</cy>
 			<w>79.0</w>
 			<h>187.0</h>
 			<angle>1.570796</angle>
@@ -122,7 +122,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

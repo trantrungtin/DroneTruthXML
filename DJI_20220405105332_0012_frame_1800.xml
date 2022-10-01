@@ -529,7 +529,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>truck</name>
+		<name>large-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -540,7 +540,7 @@
 			<h>197.5977</h>
 			<angle>4.790463</angle>
 		</robndbox>
-		<extra/>
+		<extra>2</extra>
 	</object>
 	<object>
 		<name>small-vehicle</name>

@@ -107,7 +107,7 @@
 			<h>606.8995</h>
 			<angle>4.699668</angle>
 		</robndbox>
-		<extra/>
+		<extra>2</extra>
 	</object>
 	<object>
 		<name>large-vehicle</name>
@@ -121,6 +121,6 @@
 			<h>221.6709</h>
 			<angle>4.721634</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 </annotation>

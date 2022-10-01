@@ -31,20 +31,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<robndbox>
-			<cx>105.5116</cx>
-			<cy>756.3521</cy>
-			<w>77.084</w>
-			<h>188.3738</h>
-			<angle>4.398073</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
-		<name>small-vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
 			<cx>440.0</cx>
 			<cy>626.0</cy>
 			<w>73.0</w>

@@ -37,7 +37,7 @@
 			<h>187.0001</h>
 			<angle>4.707668</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>large-vehicle</name>
@@ -194,7 +194,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -387,7 +387,7 @@
 			<h>178.3312</h>
 			<angle>5.687668</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>large-vehicle</name>

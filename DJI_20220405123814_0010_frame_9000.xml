@@ -102,12 +102,12 @@
 		<difficult>0</difficult>
 		<robndbox>
 			<cx>3239.0</cx>
-			<cy>1887.0</cy>
+			<cy>1889.0</cy>
 			<w>108.0</w>
 			<h>228.0001</h>
 			<angle>3.26513</angle>
 		</robndbox>
-		<extra/>
+		<extra>2</extra>
 	</object>
 	<object>
 		<name>small-vehicle</name>

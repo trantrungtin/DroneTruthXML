@@ -15,12 +15,12 @@
 		<name>group-two-wheeler</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>3068</xmin>
-			<ymin>142</ymin>
-			<xmax>3316</xmax>
-			<ymax>427</ymax>
+			<xmin>3063</xmin>
+			<ymin>132</ymin>
+			<xmax>3318</xmax>
+			<ymax>423</ymax>
 		</bndbox>
 		<extra/>
 	</object>
@@ -777,6 +777,104 @@
 			<w>58.6887</w>
 			<h>122.0885</h>
 			<angle>1.458485</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3187.0428</cx>
+			<cy>381.7728</cy>
+			<w>27.8767</w>
+			<h>60.087</h>
+			<angle>4.405988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3135.0578</cx>
+			<cy>327.2728</cy>
+			<w>25.0255</w>
+			<h>61.0205</h>
+			<angle>4.405988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3129.6522</cx>
+			<cy>282.8952</cy>
+			<w>23.6352</w>
+			<h>58.8974</h>
+			<angle>4.005988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3169.1144</cx>
+			<cy>348.0645</cy>
+			<w>24.716</w>
+			<h>61.3217</h>
+			<angle>4.205988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3226.6522</cx>
+			<cy>226.8952</cy>
+			<w>23.6352</w>
+			<h>58.8974</h>
+			<angle>6.205988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3195.76</cx>
+			<cy>245.7228</cy>
+			<w>25.7165</w>
+			<h>60.7186</h>
+			<angle>6.205988</angle>
+		</robndbox>
+		<extra/>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>3256.6522</cx>
+			<cy>198.8952</cy>
+			<w>23.6352</w>
+			<h>58.8974</h>
+			<angle>3.122803</angle>
 		</robndbox>
 		<extra/>
 	</object>

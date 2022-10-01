@@ -138,20 +138,6 @@
 		<extra/>
 	</object>
 	<object>
-		<name>train</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>3653.7653</cx>
-			<cy>1535.0111</cy>
-			<w>114.2892</w>
-			<h>367.9447</h>
-			<angle>4.69132</angle>
-		</robndbox>
-		<extra/>
-	</object>
-	<object>
 		<name>tank</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

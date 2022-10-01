@@ -93,7 +93,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>small-vehicle</name>
+		<name>mid-vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -258,6 +258,6 @@
 			<h>553.0</h>
 			<angle>1.44789</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 </annotation>

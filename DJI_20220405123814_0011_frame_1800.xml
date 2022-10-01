@@ -121,7 +121,7 @@
 			<h>307.5273</h>
 			<angle>3.299362</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 	<object>
 		<name>truck</name>
@@ -135,6 +135,6 @@
 			<h>341.2049</h>
 			<angle>3.310582</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 </annotation>

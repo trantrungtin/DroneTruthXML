@@ -283,7 +283,7 @@
 		<extra/>
 	</object>
 	<object>
-		<name>large-vehicle</name>
+		<name>truck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -294,6 +294,6 @@
 			<h>180.0</h>
 			<angle>5.463891</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult</extra>
 	</object>
 </annotation>

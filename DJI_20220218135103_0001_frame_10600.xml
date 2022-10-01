@@ -109,18 +109,4 @@
 		</robndbox>
 		<extra/>
 	</object>
-	<object>
-		<name>train</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<robndbox>
-			<cx>87.7403</cx>
-			<cy>1281.8757</cy>
-			<w>112.3115</w>
-			<h>387.9719</h>
-			<angle>3.05</angle>
-		</robndbox>
-		<extra/>
-	</object>
 </annotation>

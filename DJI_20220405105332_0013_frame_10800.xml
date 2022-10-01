@@ -191,7 +191,7 @@
 			<h>239.1853</h>
 			<angle>4.376173</angle>
 		</robndbox>
-		<extra/>
+		<extra>difficult,2</extra>
 	</object>
 	<object>
 		<name>small-vehicle</name>
